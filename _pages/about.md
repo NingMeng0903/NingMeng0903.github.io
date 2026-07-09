@@ -9,7 +9,11 @@ redirect_from:
 
 ## About me
 
-Your introduction goes here.
+I am Pei Liu (刘沛), a Master's student in Automotive Engineering at the Technical University of Munich (TUM).
+
+Prior to this, I received my Bachelor's degree in Mechanical Design, Manufacture and its Automation from Tongji University, where I was supervised by Prof. Yutian Zhu.
+
+My research interests include medical robotics and autonomous interventions, with a primary focus on robotic perception, control, and manipulation.
 
 ## Education
 
