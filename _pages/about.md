@@ -21,4 +21,8 @@ Your research summary and publication list.
 
 ## Awards & Honors
 
-- Your awards
+- Grand Champion, Formula Student Germany, Formula Student Barcelona & Formula Student Netherlands (2025)
+- Outstanding Undergraduate Thesis (Top 5%), Tongji University
+- National 2nd Prize in 6th National College Crane and Logistics Technology Competition, China
+- First Prize in Shanghai University Student Mechanical Engineering Creativity Competition
+- National 1st Prize in 19th National College Student Robotics Competition: ROBOMASTER (2020)
