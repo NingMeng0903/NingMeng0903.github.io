@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name"
+title                    : "Pei Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Personal academic homepage"
+name                     : &name "Pei Liu"
+description              : &description "Pei Liu's academic homepage"
 url                      : https://NingMeng0903.github.io
 baseurl                  : ""
 repository               : "NingMeng0903/NingMeng0903.github.io"
@@ -23,13 +23,13 @@ repository               : "NingMeng0903/NingMeng0903.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Name"
+  name             : "Pei Liu"
   pronouns         :
-  bio              : "Short bio"
-  location         :
-  employer         :
+  bio              : "B.Eng. in Mechatronics"
+  location         : "Garching, Munich"
+  employer         : "Technical University of Munich"
   uri              :
-  email            :
+  email            : "pei.liu@tum.de"
 
   # Academic websites
   academia         :
