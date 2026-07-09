@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pei Liu"
+title                    : "Pei Liu - Personal Page"
 title_separator          : "-"
 name                     : &name "Pei Liu"
 description              : &description "Pei Liu's academic homepage"
