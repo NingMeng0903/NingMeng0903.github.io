@@ -13,8 +13,8 @@ Your introduction goes here.
 
 ## Education
 
-- *Oct. 2023 - Present*, **Technical University of Munich**, M.Sc. in Automotive Engineering (GPA: 88.3/100)
-- *Sep. 2018 - Jul. 2023*, **Tongji University**, B.Eng. in Mechanical Design Manufacture and its Automation (GPA: 88.7/100)
+- *Oct. 2023 - Present*, **Technical University of Munich**, M.Sc. in Automotive Engineering
+- *Sep. 2018 - Jul. 2023*, **Tongji University**, B.Eng. in Mechanical Design Manufacture and its Automation
 
 ## Research & Publications
 
