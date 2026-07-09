@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am Pei Liu (刘沛), a Master's student in Automotive Engineering at the Technical University of Munich (TUM). I am currently completing my master's thesis at the University of Hong Kong (HKU), co-supervised by [Prof. Alois Knoll](https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/) and [Prof. Zhongliang Jiang](https://mech.hku.hk/academic-staff/jiang-z-l/).
+I am Pei Liu (刘沛), a Master's student in Automotive Engineering at the Technical University of Munich (TUM). I am currently completing my master's thesis at the University of Hong Kong (HKU), co-supervised by [Prof. Zhongliang Jiang](https://mech.hku.hk/academic-staff/jiang-z-l/) and [Prof. Alois Knoll](https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/).
 
 Prior to this, I received my Bachelor's degree in Mechanical Design, Manufacture and its Automation from Tongji University, where I was supervised by Prof. Yutian Zhu.
 
