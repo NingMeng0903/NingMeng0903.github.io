@@ -73,8 +73,8 @@
   }
 
   &__authors .author-self {
-    text-decoration: underline;
-    text-underline-offset: 2px;
+    text-decoration: none !important;
+    border-bottom: 1px solid #222;
     color: #222;
   }
 
