@@ -29,8 +29,8 @@ My research interests include medical robotics and autonomous interventions, wit
   </div>
   <div class="publication-card__content">
     <div class="publication-card__title">From Scanning Guidelines to Action: A Robotic Ultrasound Agent with LLM-Based Reasoning</div>
-    <div class="publication-card__authors">Yuan Bi, Yiping Zhou, <span class="author-self">Pei Liu</span>, Feng Li, Zhongliang Jiang, and Nassir Navab</div>
-    <div class="publication-card__meta">MICCAI 2026.</div>
+    <div class="publication-card__authors">Yuan Bi, Yiping Zhou, <u>Pei Liu</u>, Feng Li, Zhongliang Jiang, and Nassir Navab</div>
+    <div class="publication-card__meta"><em>In MICCAI 2026.</em></div>
     <div class="publication-card__links">
       <a class="publication-card__btn" href="https://arxiv.org/bibtex/2603.14393" target="_blank" rel="noopener noreferrer">BIB</a>
       <a class="publication-card__btn" href="https://arxiv.org/html/2603.14393v1" target="_blank" rel="noopener noreferrer">HTML</a>
