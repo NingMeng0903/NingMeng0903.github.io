@@ -25,7 +25,7 @@ My research interests include medical robotics and autonomous interventions, wit
 <div class="publication-card">
   <div class="publication-card__teaser">
     <span class="publication-card__venue">MICCAI</span>
-    <img src="/images/papers/bzl26-teaser.jpg" alt="From Scanning Guidelines to Action teaser">
+    <img src="/images/papers/bzl26-teaser.png" alt="From Scanning Guidelines to Action teaser">
   </div>
   <div class="publication-card__content">
     <div class="publication-card__title">From Scanning Guidelines to Action: A Robotic Ultrasound Agent with LLM-Based Reasoning</div>
