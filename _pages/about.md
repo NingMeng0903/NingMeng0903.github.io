@@ -22,19 +22,23 @@ My research interests include medical robotics and autonomous interventions, wit
 
 ## Research & Publications
 
-In my research, I primarily focus on:
-
-1. medical robotics and autonomous ultrasound scanning;
-2. LLM-based robotic reasoning and tool use;
-3. robotic perception, control, and manipulation.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/pfMOc4e2IGA" title="Robotic Ultrasound Agent Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="publication-card">
+  <div class="publication-card__teaser">
+    <span class="publication-card__venue">MICCAI</span>
+    <img src="/images/papers/bzl26-teaser.jpg" alt="From Scanning Guidelines to Action teaser">
+  </div>
+  <div class="publication-card__content">
+    <div class="publication-card__title">From Scanning Guidelines to Action: A Robotic Ultrasound Agent with LLM-Based Reasoning</div>
+    <div class="publication-card__authors">Yuan Bi, Yiping Zhou, <span class="author-self">Pei Liu</span>, Feng Li, Zhongliang Jiang, and Nassir Navab</div>
+    <div class="publication-card__meta">MICCAI 2026.</div>
+    <div class="publication-card__links">
+      <a class="publication-card__btn" href="https://arxiv.org/bibtex/2603.14393" target="_blank" rel="noopener noreferrer">BIB</a>
+      <a class="publication-card__btn" href="https://arxiv.org/html/2603.14393v1" target="_blank" rel="noopener noreferrer">HTML</a>
+      <a class="publication-card__btn" href="https://arxiv.org/pdf/2603.14393" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a class="publication-card__btn" href="https://www.youtube.com/watch?v=pfMOc4e2IGA" target="_blank" rel="noopener noreferrer">VIDEO</a>
+    </div>
+  </div>
 </div>
-
-Preprints:
-
-- Yuan Bi, Yiping Zhou, **Pei Liu**, Feng Li, Zhongliang Jiang, Nassir Navab, "[From Scanning Guidelines to Action: A Robotic Ultrasound Agent with LLM-Based Reasoning](https://arxiv.org/abs/2603.14393)," arXiv:2603.14393, 2026. [[Paper](https://arxiv.org/pdf/2603.14393)] [[Video](https://www.youtube.com/watch?v=pfMOc4e2IGA)]
 
 ## Award & Honors
 
